@@ -1,4 +1,4 @@
-package com.mazzatech.admazsshipping;
+package com.mazzatech.azship;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
